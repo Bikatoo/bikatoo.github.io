@@ -17,9 +17,10 @@
 + 熟悉 JVM 相关原理，了解基本调优策略，有一定的问题排查能力； 
 + 熟悉 常用的设计模式与设计原则，能够理解并灵活应用到程序开发中； 
 + 熟悉 TCP/IP、HTTP 协议等计算机网络相关内容； 
-+ 熟悉 Maven、Git 等项目构建系统与版本控制工具的使用； 
-+ 了解 SpringCloud Alibaba 微服务架构及常用组件(openFeign、nacos 等)； 
-+ 了解 RabbitMQ、Sentinel 以及 ElasticSearch 等中间件的基本使用。
++ 熟悉 Maven、Git 等项目构建系统与版本控制工具的使用；  
++ 了解 SpringCloud Alibaba 微服务架构及常用组件(openFeign、nacos 等)的使用；  
++ 了解 DDD 基本体系，并参与初步的重构实践；   
++ 了解 RabbitMQ、Sentinel 等中间件的基本使用。
 
 ### 工作经历
 #### 2020.5 ~ 至今  北京运视科技有限公司  Java 开发工程师
